@@ -1,7 +1,7 @@
 - 👋 Hi, I am Bharath
 - 👀 Tech enthusiast
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Full stack projects
+- 🌱 Amateur Developer and Cloud engineer
+- 💞️ Infinite love towards Devsecops
 - 📫 Ping - kadimcherlabharat123@gmail.com
 
 <!---
